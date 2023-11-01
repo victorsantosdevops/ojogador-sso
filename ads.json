@@ -1,1 +1,21 @@
-{}
+{
+    "ojogador-sso": {
+        "projectName": "ojogador-sso",
+        "description": "O Jogador SSO",
+        "type": "community",
+        "author": "victorsantosdevops",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/victorsantosdevops/ojogador-sso",
+        "githubUri": "https://github.com/victorsantosdevops/ojogador-sso",
+        "license": "apache-2.0",
+        "lastUpdated": "1698850956633",
+        "tags": [
+            "social-logins",
+            "authorization",
+            "authentication",
+            "community"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
